@@ -1,0 +1,58 @@
+[[90mmochawesome[39m] Generating report files...
+
+
+[0m[0m
+[0m  Home page test[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests001[0m[31m (2563ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests002[0m[31m (1525ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests003[0m[31m (1118ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests004[0m[31m (2271ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests005[0m[31m (1511ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests006[0m[31m (785ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests007[0m[31m (737ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests008[0m[31m (1616ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests009[0m[31m (5951ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests010[0m[31m (967ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests011[0m[31m (1189ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests012[0m[31m (799ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests013[0m[31m (992ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests014[0m[31m (1304ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests015[0m[31m (909ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests016[0m[31m (1804ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests017[0m[31m (1747ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests018[0m[31m (983ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests019[0m[31m (763ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests020[0m[31m (4580ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests021[0m[31m (633ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests022[0m[31m (1722ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests023[0m[31m (776ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests024[0m[31m (890ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests025[0m[31m (5013ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests026[0m[31m (735ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests027[0m[31m (464ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests028[0m[31m (1396ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests029[0m[31m (1016ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests030[0m[31m (692ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests031[0m[31m (17224ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests032[0m[31m (10387ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests033[0m[31m (8709ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests034[0m[31m (3005ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests035[0m[31m (4240ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests036[0m[31m (3763ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests037[0m[31m (2042ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests038[0m[31m (2543ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests039[0m[31m (3321ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests040[0m[31m (1037ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests041[0m[31m (840ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests042[0m[31m (441ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests043[0m[31m (3479ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests044[0m[31m (1804ms)[0m
+[2K[0G  [32m  √[0m[90m #Automated Tests045[0m[31m (924ms)[0m
+
+
+[92m [0m[32m 45 passing[0m[90m (2m)[0m
+
+
+[[90mmochawesome[39m] Report saved to mochawesome-reports\mochawesome.html
+
+
