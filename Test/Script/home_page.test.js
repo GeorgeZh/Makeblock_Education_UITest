@@ -383,16 +383,16 @@ test.describe('Home page test',function(){
 
     test.it('#Automated Tests028',function(done){
         //TOP页面置顶
-    	Zopr
-		.get(url.HOME)
-		.getElement(home.TOP)
-		.waitElement()
-		.mouseMove(home.MAKEBLOCK)
-		.getElement(home.TOP)
-		.waitCssValue('display','block')
-    	.click()
-		.waitCssValue('display','none')
-		done()
+        Zopr
+	    .get(url.HOME)
+	    .getElement(home.TOP)
+	    .waitElement()
+	    .mouseMove(home.MAKEBLOCK)
+	    .getElement(home.TOP)
+	    .waitCssValue('display','block')
+        .click()
+	    .waitCssValue('display','none')
+	    done()
     })
 
     test.it('#Automated Tests029',function(done){
